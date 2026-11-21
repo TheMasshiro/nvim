@@ -197,8 +197,8 @@ return {
 			"clang-format",
 			"cpplint",
 
-			-- Go
-			"delve",
+			-- -- Go
+			-- "delve",
 
 			-- Lua
 			"lua-language-server",
